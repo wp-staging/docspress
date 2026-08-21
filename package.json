@@ -47,11 +47,11 @@
         "md5": "^2.2.1",
         "micromatch": "^4.0.2",
         "po2json": "^0.4.5",
-        "stylelint": "^10.1.0",
+        "stylelint": "^17.14.1",
         "stylelint-config-recommended-scss": "^3.3.0",
         "stylelint-config-standard": "^18.3.0",
-        "stylelint-order": "^3.0.1",
+        "stylelint-order": "^8.1.1",
         "stylelint-scss": "^3.9.4",
-        "wpeg": "0.0.23"
+        "wpeg": "1.2.8"
     }
 }
